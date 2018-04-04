@@ -4,7 +4,7 @@
   "description": "Advanced React",
   "main": "lib/server.js",
   "repository": "jscomplete/advanced-react",
-  "author": "Samer Buna",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "dev": "pm2 start lib/server.js --watch --interpreter babel-node",
